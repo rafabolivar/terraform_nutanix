@@ -1,6 +1,6 @@
 # Example file for Terraform - Nutanix
 
-Quick example of creation of a VM called "test-terraform_VM1" using the Nutanix provider for Terraform.
+Quick example of creation of a VM called *test-terraform_VM1* using the Nutanix provider for Terraform.
 
 Remember to change the right values for your Prism Central, UUID of your cluster and UUID of your network.
 
