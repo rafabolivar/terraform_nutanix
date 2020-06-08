@@ -9,7 +9,7 @@ $ terraform init
 $ terraform apply
 ```
 
-Then you can modify the file and again:
+Then you can modify your example.tf file and again:
 
 ```
 $ terraform apply
